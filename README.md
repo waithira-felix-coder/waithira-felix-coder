@@ -1,4 +1,4 @@
-# Hi, I'm Waithira Felix Coder 👋
+# Hi, I'm Waithira Felix 👋
 
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Aspiring+Cloud+%26+Infrastructure+Engineer;BICT+Student;Networking+%7C+Linux+%7C+Backend+Development;Building+practical+engineering+projects" alt="Typing SVG" />
