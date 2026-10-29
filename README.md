@@ -1,167 +1,99 @@
 # Hi, I'm Waithira Felix 👋
 
 <div align="center">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Aspiring+Cloud+%26+Infrastructure+Engineer;BICT+Student;Networking+%7C+Linux+%7C+Backend+Development;Building+practical+engineering+projects" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=ICT+Student+%7C+Software+Developer;Full-Stack+Learning+Path;Cloud%2C+Networking%2C+Backend+Systems" alt="Typing SVG" />
 </div>
 
-I’m a third-year ICT student at Laikipia University, Kenya, building practical engineering experience in cloud, infrastructure, backend systems, databases, and software development. My projects focus on solving real problems through full-stack applications, infrastructure concepts, and networking labs while growing toward a career in Cloud & Infrastructure Engineering.
+I’m an ICT student building practical experience across software development, backend systems, networking, and product-style application work.
 
-- 🔭 Currently building and refining practical projects in cloud, networking, and full-stack development
-- 🌱 Learning: Linux, networking fundamentals, cloud deployment, backend APIs, and modern web stacks
-- 🧩 Interested in: Cloud infrastructure, networking, system operations, automation, and backend architecture
-- 🤝 Open to internships, collaboration, and project opportunities in cloud, networking, and software engineering
+- Email: felixwaithira2023@gmail.com
+- LinkedIn: https://www.linkedin.com/in/waithira-felix
+- GitHub: https://github.com/waithira-felix-coder
+- Based in Kenya
 
-<p align="left">
-  <img src="https://img.shields.io/badge/Focus-Cloud%20%26%20Infrastructure-0A84FF?style=flat-square&logo=cloud&logoColor=white" />
-  <img src="https://img.shields.io/badge/Study-BICT%20Student-0A84FF?style=flat-square&logo=graduationcap&logoColor=white" />
-  <img src="https://img.shields.io/badge/Direction-Networking%20%7C%20Linux%20%7C%20Backend-0A84FF?style=flat-square" />
-</p>
+## Technical growth snapshot
 
----
+My repository history shows a clear progression from foundational programming and web basics toward database-backed applications, product architecture, and deployment-aware full-stack work.
 
-## Tech Stack
+- Early projects focused on fundamentals: C++, Java, Python, and small problem-solving exercises.
+- I moved into web development with HTML, CSS, JavaScript, and PHP, then added MySQL-backed business systems.
+- The next stage introduced React, Next.js, and API-driven apps, along with backend services using FastAPI and Express.
+- Networking and infrastructure work became a strong parallel track through Cisco Packet Tracer labs and structured network projects.
+- More recent work combines frontend, backend, AI integrations, and deployment workflows in projects like Block Explorer and Namera.
 
-### Programming Languages
+This is a self-directed student portfolio, not a professional engineering track claim. The evidence is strongest in applied learning and project execution rather than long-term production experience.
 
-<img src="https://skillicons.dev/icons?i=python,js,ts,php,java&perline=8" />
+## Technical strengths demonstrated by the portfolio
 
-### Frontend
+### Web and application development
+- HTML, CSS, JavaScript, TypeScript
+- React and Next.js for product interfaces
+- PHP for server-side web apps
+- Node.js and Express for API/backend services
+- FastAPI for Python-based application APIs
 
-<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&perline=8" />
+### Data and business logic
+- MySQL and database-backed application design
+- CRUD-driven systems for patients, notes, students, and finance workflows
+- Structured project folders and documentation for maintainable app design
 
-### Backend & APIs
+### Networking and systems
+- Cisco Packet Tracer labs covering VLANs, routing, wireless, and troubleshooting
+- Linux-oriented system exposure and infrastructure-oriented learning
+- Practical networking, IP addressing, and configuration documentation
 
-<img src="https://skillicons.dev/icons?i=fastapi,nodejs,express,php&perline=8" />
+### Deployment and integration
+- Render and GitHub Pages deployment patterns
+- API-driven frontend experiences
+- External service integration with Google Maps, Gemini, and cloud-facing app architecture
 
-### Databases
+## Representative projects
 
-<img src="https://skillicons.dev/icons?i=mysql,postgres,sqlite&perline=8" />
+### Block Explorer
+- React + TypeScript + Express + Google Maps + Gemini
+- Full-stack app with geocoding, AI-generated insights, quiz generation, and deployment configuration
+- Strong evidence of product thinking, API integration, and deployment readiness
 
-### Infrastructure & Dev Tools
+### Namera
+- Next.js + FastAPI + structured product architecture
+- Demonstrates frontend/backend separation, app flow design, and product-style UX for a real use case
 
-<img src="https://skillicons.dev/icons?i=linux,git,github,vscode,npm,vercel&perline=8" />
+### Hospital Management System
+- PHP + MySQL + Bootstrap
+- Database-backed CRUD application with role-based access and operational workflows
 
-### Networking & Systems
+### Notes App
+- PHP + MySQL + authentication + PWA features
+- Clear evidence of secure login, session handling, persistence, and app-like UX
 
-- Cisco Packet Tracer labs
-- VLAN configuration
-- Routing and switching fundamentals
-- IP addressing and subnetting
-- Network troubleshooting and lab-based practice
-- Linux-oriented system exploration
+### CCNA Networking Labs
+- Cisco Packet Tracer, routing, switching, VLANs, wireless, troubleshooting
+- Strong evidence of infrastructure and systems learning in a lab-based format
 
----
+## Focus areas
 
-## What I Build
+I am most interested in building practical, real-world engineering skills at the intersection of:
 
-My repository work shows a mix of practical engineering and applied software development:
+- backend development
+- database-backed systems
+- networking and infrastructure fundamentals
+- deployment and hosting
+- APIs and product architecture
 
-- Full-stack web applications with database-backed business logic
-- Backend APIs and app services using Python and Node.js
-- Frontend interfaces in React and Next.js
-- Network engineering practice using Cisco Packet Tracer and CCNA-style labs
-- Infrastructure-oriented projects and deployment-focused experiments
-- Problem-solving projects for real-world workflows such as health management, financial tracking, and travel exploration
-
----
-
-## Featured Projects
-
-### 1. Block Explorer
-A geospatial and AI-powered destination discovery app that combines Google Maps Platform and Gemini to help users explore places, understand local context, and test knowledge through a quiz experience.
-
-- Tech: React, TypeScript, Vite, Node.js, Express, Google Maps APIs, Gemini AI
-- Highlights: geocoding, quiz generation, AI insights, cloud deployment
-- Repo: https://github.com/waithira-felix-coder/block_explore
-- Live Demo: https://block-explore.onrender.com
-
-### 2. Namera
-A product-style baby naming platform focused on search, comparison, and guided discovery with a modern UI and backend architecture.
-
-- Tech: Next.js, FastAPI, Python, SQL / database-backed backend, product UI
-- Highlights: app architecture, user-facing product design, API integration, structured project organization
-- Repo: https://github.com/waithira-felix-coder/Namera
-
-### 3. CCNA Networking Labs
-A structured networking lab repository covering basics, VLANs, routing, wireless, and advanced network scenarios using Cisco Packet Tracer.
-
-- Tech: Cisco Packet Tracer, networking concepts, routing, switching, VLANs, troubleshooting
-- Highlights: practical networking labs and configuration documentation
-- Repo: https://github.com/waithira-felix-coder/ccna-networking-labs
-
-### 4. Hospital Management System
-A PHP/MySQL hospital management application for patient, doctor, and appointment workflows.
-
-- Tech: PHP, MySQL, HTML, CSS, JavaScript, Bootstrap
-- Highlights: full CRUD workflows, database design, role-based management flows
-- Repo: https://github.com/waithira-felix-coder/hospital-management-system
-
-### 5. Notes App
-A PHP notes application with authentication and CRUD functionality, enhanced with PWA features for installable desktop/mobile usage.
-
-- Tech: PHP, MySQL, HTML, CSS, JavaScript, PWA
-- Highlights: secure login, data persistence, app-style experience, offline caching
-- Repo: https://github.com/waithira-felix-coder/notes-app
-
-### 6. React Weather App
-A responsive weather dashboard built with React and Vite.
-
-- Tech: React, TypeScript, Vite
-- Highlights: frontend patterns, UI development, API-driven app experience
-- Repo: https://github.com/waithira-felix-coder/react-weather-app
-
----
-
-## Technical Growth
-
-My work shows a clear progression from foundational programming and web basics toward more integrated engineering work:
-
-- Started with programming fundamentals and problem-solving scripts
-- Built frontend and basic web applications with HTML, CSS, JavaScript, and React
-- Added backend and data-driven application development using PHP, MySQL, and Python APIs
-- Expanded into networking, infrastructure concepts, and Linux-oriented systems learning
-- Developed more advanced full-stack and product-style projects involving databases, APIs, deployment, and user-facing apps
-
-This progression reflects a path toward cloud and infrastructure engineering: combining software development skills with networking, systems thinking, and deployment awareness.
-
----
-
-## GitHub Activity
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=waithira-felix-coder&show_icons=true&theme=github_dark&hide_border=true" alt="GitHub Stats" height="180" />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=waithira-felix-coder&layout=compact&theme=github_dark&hide_border=true" alt="Top Languages" height="180" />
-</div>
-
-<div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=waithira-felix-coder&theme=github-dark&hide_border=true" alt="GitHub Streak" />
-</div>
-
----
-
-## Current Focus
-
-I am actively developing toward Cloud & Infrastructure Engineering with a strong practical foundation across:
-
-- Networking and infrastructure fundamentals
-- Linux and systems exposure
-- Cloud deployment and application hosting
-- Backend development and database integration
-- Application architecture and full-stack engineering
-- Security awareness and automation mindset
-
-My work is not limited to one domain — it combines networking, backend systems, application development, and infrastructure-oriented learning into one practical technical profile.
-
----
-
-## Connect
+## Contact
 
 - GitHub: https://github.com/waithira-felix-coder
+- LinkedIn: https://www.linkedin.com/in/waithira-felix
+- Email: felixwaithira2023@gmail.com
 
-I’m open to internships, collaboration, and project opportunities where I can continue building technical experience in cloud, networking, and software engineering.
+## Summary
+
+My portfolio reflects a steady progression from beginner programming and web work toward more integrated software engineering. The strongest evidence is not in one single domain, but across a cohesive set of projects that build from fundamentals to full-stack product development, networking practice, and deployment-aware application work.
+
+This is the profile of an ICT student developing practical engineering capability through applied projects, not a claim of professional experience beyond that scope.
 
 ---
 
 <p align="center">
-  <img src="https://komarev.com/ghpvc/?username=waithira-felix-coder&style=flat-square&color=0A84FF" alt="Profile Views" />
+  <img src="https://komarev.com/ghpvc/?username=waithira-felix-coder&style=flat-square&color=0A84FF" alt="Profile views" />
 </p>
