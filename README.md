@@ -3,6 +3,9 @@
 <div align="center">
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=24&pause=1000&color=58A6FF&center=true&vCenter=true&width=700&lines=Aspiring+Cloud+%26+Infrastructure+Engineer;BICT+Student;Networking+%7C+Linux+%7C+Backend" alt="Waithira Felix" />
 </div>
+- GitHub: https://github.com/waithira-felix-coder
+- LinkedIn: https://www.linkedin.com/in/felix-mwangi001
+- Email: felixwaithira2023@gmail.com
 
 I’m a third-year ICT student at Laikipia University, Kenya, building practical engineering experience in cloud, infrastructure, backend systems, databases, and software development. My projects focus on applying theory to real-world systems, from networking and web development to modern product-style applications.
 
@@ -157,7 +160,7 @@ My work is not limited to one domain — it combines networking, backend systems
 ## Connect
 
 - GitHub: https://github.com/waithira-felix-coder
-- LinkedIn: https://www.linkedin.com/in/waithira-felix
+- LinkedIn: https://www.linkedin.com/in/felix-mwangi001
 - Email: felixwaithira2023@gmail.com
 
 I’m open to internships, collaboration, and project opportunities where I can continue building technical experience in cloud, networking, and software engineering.
